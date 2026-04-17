@@ -16,7 +16,7 @@
 title: Hokie Class
 description: Another class website built with Just the Docs
 author: Hailong Zhang
-baseurl: '/fa26' # the subpath of your site, e.g. /blog
+baseurl: '/26fa' # the subpath of your site, e.g. /blog
 url: 'http://decision-modeling.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", ".bundle", "vendor"]
 # logo:
